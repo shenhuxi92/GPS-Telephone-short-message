@@ -7,7 +7,8 @@
 
 数据库配置文件 app/database.php
 
-后台地址 /admin  账号：admin   密码：123456
+后台地址 /admin  账号：admin   密码：jia110
+账号 jia110 密码123
 
 前端需要使用 HBuilderX 来编译  
 
